@@ -1,2 +1,4 @@
 # musclebuffnutrition
-This is my practice git repositary
+This is my practice git repository.
+<br>
+I am happy now.
