@@ -2,7 +2,7 @@ package musclebuffnutrition;
 import java.util.ArrayList;
 import java.util.HashMap;
 public class hashmap {
-  public static void main(String[] args) {
+ public static void main(String[] args) {
     HashMap<String,Integer> map = new HashMap<>();
     map.put("Bharat", 26);
     map.put("Mitul", 27);
@@ -11,7 +11,7 @@ public class hashmap {
     System.out.println(map.size());
     
     System.out.println(map.get("Renu"));
-    ArrayList<Integer> AL = new ArrayList<>();
+    ArrayList<Integer> AL= new ArrayList<>();
     ArrayList<String> fruits = new ArrayList<>();
 
     // Add some elements
